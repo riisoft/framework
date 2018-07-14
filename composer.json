@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/yii2-dev",
+    "name": "riisoft/framework",
     "description": "Yii PHP Framework Version 2 - Development Package",
     "keywords": [
         "yii2",
@@ -111,7 +111,7 @@
     ],
     "extra": {
         "branch-alias": {
-            "dev-master": "3.0.x-dev"
+            "dev-master": "2.0.x-dev"
         }
     }
 }
